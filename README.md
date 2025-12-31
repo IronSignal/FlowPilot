@@ -1,2 +1,2 @@
-# SetinelScope
-A dynamic Splunk dashboard that consolidates firewall, IDS/IPS, and endpoint logs, visualizing real-time security incidents, trends, and anomalies to support rapid SOC tr
+# Workflow-Autopilot
+End-to-end AI automation tool with task scheduling, rule-based RPA triggers, data validation, error logging, and dashboard monitoring, enabling hands-free process execution across multiple enterprise apps.
